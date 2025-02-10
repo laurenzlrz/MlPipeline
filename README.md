@@ -10,17 +10,17 @@ Modular Object-Oriented Design: Clear use of OO principles for code clarity and 
 
 Separation of Concerns: Data and code are cleanly separated to facilitate reuse and adaptability.
 
-* Pipeline Structure: The system follows a sequential approach:
+Pipeline Structure: The system follows a sequential approach:
 
-** Load and preprocess data
+* Load and preprocess data
 
-Train model(s)
+* Train model(s)
 
-Visualize results
+* Visualize results
 
-Save trained models and logs
+* Save trained models and logs
 
-Compare different models
+* Compare different models
 
 Extensibility: The pipeline is built to support additional datasets, models, and evaluation metrics.
 
