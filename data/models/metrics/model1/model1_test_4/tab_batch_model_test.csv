@@ -1,0 +1,5 @@
+Column.MAE,Column.MSE,Column.NRMSE,Column.GLOBAL_STEP,Column.EPOCH
+tensor(406269.8750),tensor(1.6506e+11),tensor(-44205.3125),0,0
+tensor(406270.1875),tensor(1.6506e+11),tensor(-45019.6055),0,0
+tensor(406263.),tensor(1.6505e+11),tensor(-45189.9727),0,0
+tensor(406262.8750),tensor(1.6505e+11),tensor(-45272.5391),0,0
