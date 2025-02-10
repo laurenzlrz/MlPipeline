@@ -35,3 +35,5 @@ pandas: For dataset handling
 Matplotlib & Seaborn: For visualization
 
 Torchvision: Pretrained models and dataset utilities
+
+SchnetPack: Tested Pipeline with SchnetModels because of old datasets
